@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1466131747 source:c:\users\vic\desktop\rosette\main.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	"design.h"
+	"fonctions.h"
+
+1266123014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1466009825 c:\users\vic\desktop\rosette\design.h
+
+1466165291 source:c:\users\vic\desktop\rosette\design.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"fonctions.h"
+
+1466130929 source:c:\users\vic\desktop\rosette\fonctions.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"design.h"
+	"extras.h"
+	"fonctions.h"
+
+1466108318 c:\users\vic\desktop\rosette\extras.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"design.h"
+
+1466130929 c:\users\vic\desktop\rosette\fonctions.h
+
+1466138130 source:c:\users\customer\documents\rosette\fonctions.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"design.h"
+	"extras.h"
+	"fonctions.h"
+
+1466017026 c:\users\customer\documents\rosette\design.h
+
+1466115520 c:\users\customer\documents\rosette\extras.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"design.h"
+
+1466138130 c:\users\customer\documents\rosette\fonctions.h
+
+1466261686 source:c:\users\customer\documents\rosette\main.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	"design.h"
+	"fonctions.h"
+
+1467591382 source:c:\users\customer\documents\rosette\design.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"fonctions.h"
+
